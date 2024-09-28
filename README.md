@@ -39,6 +39,8 @@
   <h3>5. Service Monitoring</h3>
     <p><strong>Prometheus</strong> and <strong>Grafana</strong> are employed for real-time monitoring and visualization of the system's metrics.</p>
 
+   ![Screenshot 2024-09-28 161538](https://github.com/user-attachments/assets/87bbf7ff-79c7-41a2-a9a3-f2e276f70220)
+
   <h2>Technologies Used</h2>
     <ul>
         <li><strong>Java</strong> & <strong>Spring Boot</strong></li>
