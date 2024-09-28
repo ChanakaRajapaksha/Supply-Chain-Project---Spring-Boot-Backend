@@ -45,7 +45,6 @@
         <li><strong>Prometheus</strong> & <strong>Grafana</strong> for Monitoring</li>
         <li><strong>Spring Security</strong> & <strong>Keycloak</strong> for API Security</li>
         <li><strong>MySQL</strong> for Database</li>
-        <li><strong>Docker</strong> for Containerization</li>
     </ul>
 
   <h2>How to Run</h2>
