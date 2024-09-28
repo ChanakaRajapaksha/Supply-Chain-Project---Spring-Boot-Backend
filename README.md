@@ -26,7 +26,7 @@
     <p>The system uses <strong>Netflix Eureka Server</strong> for service discovery, enabling the scaling of microservice instances efficiently.</p>
     <p>Eureka Server runs on <code>localhost:8761</code>.</p>
 
-   ![Uploading Screenshot 2024-09-28 161132.png…]()
+  ![Screenshot 2024-09-28 161132](https://github.com/user-attachments/assets/0be2dca3-348f-4582-84ee-14141f1de6c7)
 
   <h3>4. API Gateway and Security</h3>
     <ul>
