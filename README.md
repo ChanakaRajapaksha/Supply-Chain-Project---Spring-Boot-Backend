@@ -41,6 +41,9 @@
 
    ![Screenshot 2024-09-28 161538](https://github.com/user-attachments/assets/87bbf7ff-79c7-41a2-a9a3-f2e276f70220)
 
+   <br><br>
+   ![Screenshot 2024-09-28 161552](https://github.com/user-attachments/assets/e1fe3a5f-86c6-4c07-a528-e2e37161cad0)
+   
   <h2>Technologies Used</h2>
     <ul>
         <li><strong>Java</strong> & <strong>Spring Boot</strong></li>
