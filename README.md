@@ -1,4 +1,4 @@
-# Supply-Chain-Project---Spring-Boot-Backend
+# Supply Chain Project | Spring Boot Backend
 
  <h1>Supply Chain Pro System</h1>
 
