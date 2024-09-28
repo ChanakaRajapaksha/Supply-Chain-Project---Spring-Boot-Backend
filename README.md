@@ -26,6 +26,8 @@
     <p>The system uses <strong>Netflix Eureka Server</strong> for service discovery, enabling the scaling of microservice instances efficiently.</p>
     <p>Eureka Server runs on <code>localhost:8761</code>.</p>
 
+   ![Uploading Screenshot 2024-09-28 161132.png…]()
+
   <h3>4. API Gateway and Security</h3>
     <ul>
         <li><strong>API Gateway</strong> with <strong>Spring Cloud</strong> is used to route requests to different microservices.</li>
