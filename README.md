@@ -34,6 +34,8 @@
         <li><strong>Spring Security</strong> and <strong>Keycloak</strong> are integrated to secure the APIs.</li>
     </ul>
 
+   ![Screenshot 2024-09-28 161424](https://github.com/user-attachments/assets/ddb6eb18-0ab3-4c88-ac88-2926402c95d6)
+
   <h3>5. Service Monitoring</h3>
     <p><strong>Prometheus</strong> and <strong>Grafana</strong> are employed for real-time monitoring and visualization of the system's metrics.</p>
 
